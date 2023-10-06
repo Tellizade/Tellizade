@@ -9,7 +9,7 @@
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align ="sol">
-<a href = "https://linkedin.com/in/emretellioğlu" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "emretellioğlu" height = "30" genişlik = "40" /></a> <a href = "https:
+<a href = "https://linkedin.com/in/emre-tellioğlu-538312259" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "emretellioğlu" height = "30" genişlik = "40" /></a> <a href = "https:
 / /instagram.com/et61.5" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images /icons/Social/instagram.svg" alt = "et61.5" height = "30" genişlik = "40" /></a>
 <a href = "https://discord.gg/MrÛ#8372" hedef ="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt = "MrÛ#8372" height = "30" genişlik = "40" /></a >
 </p>
