@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre Tellioğlu </h1>
 <h3 align="center">TELLİZADE</h3>
-
-<img src ="" alt = "tellizade" /> 
+<img align="center" alt="coding" widh="1000" src ="https://asvenet.com/img/web-tasarim-yazilim.gif">
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=tellizade&label=Profile%20views&color=0e75b6&style=flat" alt = "tellizade" /> </p>
 
 <p align = "left"> <a href = "https: //github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=tellizade" alt = "tellizade" /></ a> </p>
