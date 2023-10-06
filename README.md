@@ -6,7 +6,9 @@
 <p align = "left"> <a href = "https: //github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=tellizade" alt = "tellizade" /></ a> </p>
 
 <p align = "left"> <a href = "https://twitter.com/" target = "blank"><img src = "https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 📫 How to reach me **tellioglux@gmail.com**
+
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align ="sol">
 <a href="https://linkedin.com/in/emre-tellioğlu-538312259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emre-tellioğlu" height="30" width="40" /></a>
