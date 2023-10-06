@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Emre Tellioğlu</h1>
+<h1 align="center">Merhaba 👋, ben Emre </h1>
 <h3 align="center">TELLİZADE</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=tellizade&label=Profile%20views&color=0e75b6&style=flat" alt = "tellizade" /> </p>
